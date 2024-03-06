@@ -1,0 +1,18 @@
+.header {
+    width: max-content;
+    margin: 5rem auto;
+    height: 60vh;
+}
+
+.header h1 {
+    text-align: center;
+    letter-spacing: 15px;
+    color: #391e2b;
+    font-size: 10rem;
+    margin-right: 10rem;
+}
+
+.header h1 span {
+    margin-left: 23rem;
+    color: #391e2b;
+}
