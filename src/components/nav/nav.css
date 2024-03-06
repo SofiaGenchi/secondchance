@@ -1,0 +1,27 @@
+.navegacion {
+    background-color: #dfc2d4;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion ul {
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+
+.navegacion li {
+    margin: 1rem 3rem 1rem 0;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+}
+
+.navegacion li:hover{
+    color: #faf5f8;
+    cursor: pointer;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
