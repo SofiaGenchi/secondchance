@@ -5,7 +5,7 @@ import 'animate.css'
 function About() {
   return (
     <div className='about'>
-        <p className='animate__bounceInLeft'>Somos una empresa dedicada a darles segundas oportunidades a las prendas que tengas abandonadas en tu casa.
+        <p className='animate__flash'>Somos una empresa dedicada a darles segundas oportunidades a las prendas que tengas abandonadas en tu casa.
         <br />
         Quizas alguien mas necesite o busque eso que ya dejaste de usar.
         <br />
