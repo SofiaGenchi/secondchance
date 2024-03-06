@@ -1,0 +1,32 @@
+{
+    "productos": [
+        {
+            "nombre": "Pantalon deportivo mujer",
+            "precio": "12.000",
+            "descripcion": "pantalos de mujer talle M excelente estado",
+            "imagen": "",
+            "estado": "venta"
+        },
+        {
+            "nombre": "Pantalon deportivo mujer",
+            "precio": "12.000",
+            "descripcion": "pantalos de mujer talle M excelente estado",
+            "imagen": "",
+            "estado": "venta"
+        },
+        {
+            "nombre": "Pantalon deportivo mujer",
+            "precio": "12.000",
+            "descripcion": "pantalos de mujer talle M excelente estado",
+            "imagen": "",
+            "estado": "venta"
+        },
+        {
+            "nombre": "Pantalon deportivo mujer",
+            "precio": "12.000",
+            "descripcion": "pantalos de mujer talle M excelente estado",
+            "imagen": "",
+            "estado": "venta"
+        }
+    ]
+}
