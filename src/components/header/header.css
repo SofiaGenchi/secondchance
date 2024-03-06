@@ -10,6 +10,9 @@
     color: #391e2b;
     font-size: 10rem;
     margin-right: 10rem;
+    
+    animation: bounce;
+    animation-duration: 2s;
 }
 
 .header h1 span {
