@@ -1,0 +1,17 @@
+.about {
+    /* background-color: rebeccapurple; */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about p {
+    font-size: 40px;
+    width: 800px;
+    height: 390px;
+    text-align: justify;
+    /* color: #cb9bb8; */
+    color: #391e2b;
+    
+}
