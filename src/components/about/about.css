@@ -1,20 +1,15 @@
 .about {
-    /* background-color: rebeccapurple; */
     height: 100vh;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-
-    animation: slideInLeft;
-    animation-duration: 2s;
 }
 
-.about p {
-    font-size: 40px;
-    width: 800px;
-    height: 390px;
+.about .texto p {
+    font-size: 25px;
+    width: 900px;
+    height: 120px;
     text-align: justify;
-    /* color: #cb9bb8; */
     color: #391e2b;
     
 }
