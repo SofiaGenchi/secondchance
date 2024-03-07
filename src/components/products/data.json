@@ -4,29 +4,22 @@
             "nombre": "Pantalon deportivo mujer",
             "precio": "12.000",
             "descripcion": "pantalos de mujer talle M excelente estado",
-            "imagen": "",
-            "estado": "venta"
+            "imagen": "src/assets/productos/pexels-fahmi-garna-13094233.jpg",
+            "estado": "Venta"
         },
         {
             "nombre": "Pantalon deportivo mujer",
             "precio": "12.000",
             "descripcion": "pantalos de mujer talle M excelente estado",
-            "imagen": "",
-            "estado": "venta"
+            "imagen": "src/assets/productos/pexels-đặng-thanh-tú-5693889.jpg",
+            "estado": "Donacion"
         },
         {
             "nombre": "Pantalon deportivo mujer",
             "precio": "12.000",
             "descripcion": "pantalos de mujer talle M excelente estado",
-            "imagen": "",
-            "estado": "venta"
-        },
-        {
-            "nombre": "Pantalon deportivo mujer",
-            "precio": "12.000",
-            "descripcion": "pantalos de mujer talle M excelente estado",
-            "imagen": "",
-            "estado": "venta"
+            "imagen": "src/assets/productos/pexels-ray-piedra-1464625.jpg",
+            "estado": "Venta"
         }
     ]
 }
